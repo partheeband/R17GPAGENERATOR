@@ -22,3 +22,11 @@ Further CGPA,Credit System,Etc are to be Implemented.
 
 #### You can Reach me at [partheebansms@gmail.com](mailto://partheebansms@gmail.com)
 
+<p align="center">
+<img src="./images/home.jpg" alt="" width="30%" height="20%">
+<img src="./images/department_sem_selection.jpg" alt="" width="30%" height="20%">
+<img src="./images/department.jpg" alt="" width="30%" height="20%">
+<img src="./images/sem.jpg" alt="" width="30%" height="20%">
+<img src="./images/subjects.jpg" alt="" width="30%" height="20%">
+<img src="./images/gpa calculation.jpg" alt="" width="30%" height="20%">
+</p>
