@@ -20,7 +20,7 @@ Android Application for Anna university🎓 students to calculate *Grade Point A
 Further CGPA,Credit System,Etc are to be Implemented.
 
 
-#### You can Reach me at [partheebansms@gmail.com](mailto://partheebansms@gmail.com)
+#### You can Reach me at [partheebansms@gmail.com](mailto:partheebansms@gmail.com)
 
 <p align="center">
 <img src="./images/home.jpg" alt="" width="30%" height="20%">
